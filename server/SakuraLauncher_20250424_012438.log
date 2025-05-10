@@ -1,0 +1,31 @@
+﻿2025/04/23 11:09:20 I Service 开始初始化守护进程: 3.1.6 (built: 2025-04-15 01:41) b1545cd
+2025/04/23 11:09:23 I Service frpc 版本 0.51.0-sakura-10
+2025/04/23 11:09:23 I Service 守护进程初始化完成
+2025/04/23 11:09:23 I Service 开始登录, 访问密钥: 8ird****98
+2025/04/23 11:09:23 I Service 登录成功
+2025/04/23 11:09:46 I Tunnel/ATMServer 开始加载隧道配置
+2025/04/23 11:09:46 I Tunnel/ATMServer frpc version: 0.51.0-sakura-10 (built: 2025-04-15 02:04)
+2025/04/23 11:09:46 I Tunnel/ATMServer 正在连接节点 [frp-put.com, tcp]
+2025/04/23 11:09:47 I Tunnel/ATMServer [42/1533899/29b8] 连接节点成功, 运行 ID [1533899-29b80f42]
+2025/04/23 11:09:47 I Tunnel/ATMServer [42/1533899/29b8] 隧道启动中: [ATMServer, tcp]
+2025/04/23 11:09:47 I Tunnel/ATMServer [42/1533899/29b8] 限速已更新: 10 Mibit/s
+  Tunnel/ATMServer TCP 隧道启动成功
+  Tunnel/ATMServer 使用 >>frp-put.com:14641<< 连接你的隧道
+  Tunnel/ATMServer 或使用节点 IP 连接 (不推荐) >>119.84.246.217:14641<<
+2025/04/23 11:09:47 I Tunnel/ATMServer [42/1533899/29b8] 隧道启动成功
+2025/04/23 13:34:20 I Tunnel/ATMServer 隧道重启中...
+2025/04/23 13:34:20 I Tunnel/ATMServer frpc 已退出
+2025/04/23 13:34:20 I Tunnel/ATMServer 开始加载隧道配置
+2025/04/23 13:34:20 I Tunnel/ATMServer frpc version: 0.51.0-sakura-10 (built: 2025-04-15 02:04)
+2025/04/23 13:34:20 I Tunnel/ATMServer 正在连接节点 [frp-put.com, tcp]
+2025/04/23 13:34:21 I Tunnel/ATMServer [42/1533899/29b8] 连接节点成功, 运行 ID [1533899-29b80f42]
+2025/04/23 13:34:21 I Tunnel/ATMServer [42/1533899/29b8] 隧道启动中: [ATMServer, tcp]
+2025/04/23 13:34:21 I Tunnel/ATMServer [42/1533899/29b8] 限速已更新: 10 Mibit/s
+  Tunnel/ATMServer TCP 隧道启动成功
+  Tunnel/ATMServer 使用 >>frp-put.com:14641<< 连接你的隧道
+  Tunnel/ATMServer 或使用节点 IP 连接 (不推荐) >>119.84.246.217:14641<<
+2025/04/23 13:34:21 I Tunnel/ATMServer [42/1533899/29b8] 隧道启动成功
+2025/04/23 15:39:27 I Tunnel/ATMServer [42/1533899/29b8] 黑名单功能拦截了来自 119.63.197.151 的连接
+2025/04/23 15:39:27 I Tunnel/ATMServer [42/1533899/29b8] 黑名单功能拦截了来自 119.63.197.151 的连接
+2025/04/24 00:01:55 I Tunnel/ATMServer [42/1533899/29b8] 黑名单功能拦截了来自 119.63.197.151 的连接
+2025/04/24 00:05:21 I Tunnel/ATMServer [42/1533899/29b8] 黑名单功能拦截了来自 119.63.197.151 的连接
