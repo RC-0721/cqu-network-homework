@@ -19,6 +19,7 @@
 ### 3.  Interaction between ATM and Server:
 ```
 Client                          Server
+
 HELO <userid>   --------------> (check if valid userid)                
                 <-------------  500 sp AUTH REQUIRED!
 PASS <passwd>   --------------> (check password)                
